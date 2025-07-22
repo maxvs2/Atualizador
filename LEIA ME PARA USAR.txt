@@ -1,0 +1,2 @@
+Para usar o atualizador você deve clicar no botão de verificar atualizações do Windows, e depois no atualizar programas com Winget,
+que ira atualizar os programas do seu computador via o terminal, e pelo comando winget automaticamente.
